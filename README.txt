@@ -1,25 +1,24 @@
-# Project Title
+# Concurrency
 
 
-Short one-line summary of what the project does.
+C# Example of Concurrency and how it can be used in all sorts of ways, such as reading from files and delayed prompts and messaging.
 
 
 ## Description
-Write 2–4 sentences explaining what the project does and why.
+This project was intended to demonstrate how concurrency is implemented in C#, and how it can be used to read file asynchronously, and make use of multi-threading.
 
 
 ## Features
-- Feature A
-- Feature B
+- Async file reading
+- Draw contents of a file
 
 
 ## Technologies
-- Language / Framework: e.g. Python 3.11, Node 18, .NET 8
-- Libraries: list any major ones
+- Language / Framework: C#
 
 
 ## How to run (local)
-1. Clone: `git clone https://github.com/Sxoony/REPO-NAME.git`
+1. Clone: `git clone https://github.com/Sxoony/Concurrency.git`
 2. Navigate: `cd REPO-NAME`
 3. Setup
 - Open in Visual Studio (C#)
